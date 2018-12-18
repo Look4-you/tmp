@@ -1,9 +1,5 @@
 
 import numpy as np
-a = np.random.randon_interger(1, 10, size=(10, 10))
-<<<<<<< HEAD
+a = np.random.random_integers(1, 10, size=(10, 10))
 
-print('master')
-=======
-print('win branch')
->>>>>>> win
+print('first test for master')
